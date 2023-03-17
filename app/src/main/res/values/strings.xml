@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mi App Actualizada</string>
+    <string name="hola_androidx">Hola AndroidX</string>
+</resources>
